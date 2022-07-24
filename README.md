@@ -1,0 +1,1 @@
+![](https://github.com/Cofecit/substrate-lesson6/blob/main/Event%20Snapshot%20Image.png)
