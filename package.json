@@ -1,0 +1,28 @@
+{
+  "name": "substrate-lesson6",
+  "version": "1.0.0",
+  "description": "substrate-lesson6",
+  "main": "index.js",
+  "repository": "https://github.com/Cofecit/substrate-lesson6.git",
+  "author": "LennonChin",
+  "license": "MIT",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "start": "node --use_strict public/js/main.js"
+  },
+  "dependencies": {
+    "@polkadot/api": "^8.14.1",
+    "@polkadot/types": "^8.14.1",
+    "web3": "^1.7.4"
+  },
+  "devDependencies": {
+    "@zoltu/typescript-transformer-append-js-extension": "^1.0.1",
+    "nodemon": "^2.0.6",
+    "rimraf": "^3.0.2",
+    "sirv-cli": "^2.0.2",
+    "ttypescript": "^1.5.13",
+    "typescript": "^4.6.3",
+    "yarn-run-all": "^3.1.1"
+  }
+}
